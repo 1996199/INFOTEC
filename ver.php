@@ -1,7 +1,7 @@
 
 <html>
 	<head>
-		<title>.: CRUD EN AZURE :.</title>
+		<title>.: INFOTEC AZURE :.</title>
 		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 		<script src="js/jquery.min.js"></script>
 	</head>
@@ -10,7 +10,7 @@
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-		<h2>REGISTROS ALICIA ¡HOLA SI PUDE!</h2>
+		<h2>REGISTROS INFOTEC</h2>
 <!-- Button trigger modal -->
   <a data-toggle="modal" href="#myModal" class="btn btn-default">Agregar</a>
 <br><br>
@@ -57,7 +57,7 @@
 <?php include "php/tabla.php"; ?>
 </div>
 </div>
-<h2>Hola Mundo!!!...Desde Azure!.</h2>	
+<h2>INFOTEC I.T.T.</h2>	
 </div>
 
 <script src="bootstrap/js/bootstrap.min.js"></script>
