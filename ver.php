@@ -57,6 +57,7 @@
 <?php include "php/tabla.php"; ?>
 </div>
 </div>
+<title>.: Hola mundo!...Azure :.</title>	
 </div>
 
 <script src="bootstrap/js/bootstrap.min.js"></script>
