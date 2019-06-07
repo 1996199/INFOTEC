@@ -57,7 +57,7 @@
 <?php include "php/tabla.php"; ?>
 </div>
 </div>
-<h2>Hola Mundo en Azure!.</h2>	
+<h2>Hola Mundo!!!...Desde Azure!.</h2>	
 </div>
 
 <script src="bootstrap/js/bootstrap.min.js"></script>
