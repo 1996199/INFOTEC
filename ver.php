@@ -10,7 +10,7 @@
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-		<h2>REGISTROS INFOTEC.</h2>
+		<h2>REGISTROS ALICIA ¡HOLA SI PUDE!</h2>
 <!-- Button trigger modal -->
   <a data-toggle="modal" href="#myModal" class="btn btn-default">Agregar</a>
 <br><br>
