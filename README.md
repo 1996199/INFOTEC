@@ -1,2 +1,2 @@
-# INFOTEC
-mapeo itt
+# crud-one
+CRUD con PHP y MySQL
